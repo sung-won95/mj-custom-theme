@@ -2,11 +2,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Sun Jan 12 14:54:06 2020
+Created by FontForge 20190801 at Sun Jan 12 15:10:23 2020
  By Jimmy Wärting
 </metadata>
 <defs>
-<font id="NotoSansCJKkr-Regular-Alphabetic" horiz-adv-x="1000" vert-adv-y="1000" >
+<font id="NotoSansMonoCJKkr-Regular-Alphabetic" horiz-adv-x="1000" vert-adv-y="1000" >
   <font-face 
     font-weight="400"
     font-stretch="normal"
@@ -14,7 +14,7 @@ Created by FontForge 20190801 at Sun Jan 12 14:54:06 2020
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="800"
     descent="-200"
-    x-height="543"
+    x-height="544"
     cap-height="733"
     bbox="29 -250 969 808"
     underline-thickness="50"
