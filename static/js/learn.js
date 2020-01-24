@@ -376,6 +376,11 @@ jQuery(window).on('load', function() {
 
 
     $(".highlightable").highlight(sessionStorage.getItem('search-value'), { element: 'mark' });
+
+    $(".active").parents("li").find("i").each(function() {
+        $(this).removeClass("fa-angle-right");
+        $(this).addClass("fa-angle-down");
+    })
 });
 
 $(function() {
