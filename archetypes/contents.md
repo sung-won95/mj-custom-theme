@@ -5,6 +5,7 @@ date:  {{ .Date }}
 weight: 5
 draft: false
 tags: [""]
+pre: "<i class='fas fa-minus'></i>&nbsp;"
 ---
 
 Lorem Ipsum.
