@@ -347,7 +347,7 @@ jQuery(document).ready(function() {
         $(document).ready($.proxy(anchorScrolls, 'init'));
     })(window.document, window.history, window.location);
     
-    $(".active").find("i").each(function() {
+    $(".active").children("a").children("i").each(function() {
         $(this).removeClass("fa-angle-right");
         $(this).addClass("fa-angle-down");
     })
