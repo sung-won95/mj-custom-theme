@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-weight: 1
+weight: 5
 chapter: true
 pre: "<i class='fas fa-angle-right'></i>&nbsp;"
 ---
