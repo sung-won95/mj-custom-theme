@@ -1,6 +1,5 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-menuTitle: "{{ replace .Name "-" " " | title }}"
 date:  {{ .Date }}
 weight: 10
 draft: false
