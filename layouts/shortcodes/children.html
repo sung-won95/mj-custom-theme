@@ -1,7 +1,7 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 {{ $showhidden := .Get "showhidden"}}
 {{ $style :=  .Get "style" | default "li" }}
-{{ $depth :=  .Get "depth" | default 1 }}
+{{ $depth :=  .Get "depth" | default 10 }}
 {{ $withDescription :=  .Get "description" | default false }}
 {{ $sortTerm :=  .Get "sort" | default "Weight" }}
 
