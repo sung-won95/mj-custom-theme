@@ -3,6 +3,13 @@
     /* Custom css */
 </style>
 -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B4GH8HX0D5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-{{ template "_internal/google_analytics.html" . }}
+  gtag('config', 'G-B4GH8HX0D5');
+</script>
 {{ partial "adsense.html" . }}
